@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+faceImage: /avatar.png
 heroImageStyle: {
   maxWidth: '600px',
   width: '100%',

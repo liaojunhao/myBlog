@@ -72,6 +72,7 @@ module.exports = {
       }
     ],
     "type": "blog",
+    "faceImage": "/avatar.png",
     "blogConfig": {
       "category": {
         "location": 2,
